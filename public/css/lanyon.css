@@ -44,6 +44,10 @@ html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
+    
+    color: #000;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -98,6 +102,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  background-image: url(https://raw.githubusercontent.com/jeanminet/lanyon/gh-pages/_img/logo_koheron.png);
+  background-size: contain;
+  background-repeat: no-repeat; 
+  background-position: center top; 
 }
 .masthead-title {
   margin-top: 0;

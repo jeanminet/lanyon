@@ -3,7 +3,7 @@ layout: post
 title: Introducing Lanyon
 ---
 
-![Koheron]({{ site.url }}/_img/koheron_logo.png)
+![Koheron](https://github.com/jeanminet/lanyon/blob/gh-pages/_img/logo_koheron.png)
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 

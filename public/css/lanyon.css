@@ -503,6 +503,19 @@ a.pagination-item:hover {
   color: #6a9fb5;
 }
 
+/* Koheron */
+.theme-base-koheron .sidebar,
+.theme-base-koheron .sidebar-toggle:active,
+.theme-base-koheron #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #01afee;
+}
+.theme-base-koheron .container a,
+.theme-base-koheron .sidebar-toggle,
+.theme-base-koheron .related-posts li a:hover {
+  color: #01afee;
+}
+
+
 /* Magenta */
 .theme-base-0e .sidebar,
 .theme-base-0e .sidebar-toggle:active,
